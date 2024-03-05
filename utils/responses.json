@@ -1,0 +1,19 @@
+{
+    "photo_teg": "AgACAgIAAxkBAAN2ZcEOTJqJDa7OduX1kXtTC1xH9nYAAjXVMRvIxwlKqHTxNoSG5S4BAAMCAAN5AAM0BA",
+    "photo_teg_30": "AgACAgIAAxkBAAIECWXaO-vGgm4qMnfANT1WokXPscgpAAKU2DEbwiDQSoe8jIYoUrVxAQADAgADeQADNAQ",
+    "photo_teg_80": "AgACAgIAAxkBAAIEC2XaPEVUb1m3QTUZDDui5m6FoO6XAAKY2DEbwiDQSqqwGYeKhD-8AQADAgADeQADNAQ",
+    "photo_teg_170": "AgACAgIAAxkBAAIEDWXaPQYGVFQoZTdTBpVpAAHbcjNInQACntgxG8Ig0EoKcFZGX1cwLAEAAwIAA3kAAzQE",
+    "photo_teg_360": "AgACAgIAAxkBAAIED2XaPTzeOE1yPFxb4IOEJWistluoAAKj2DEbwiDQSiv8nmeS6uWsAQADAgADeQADNAQ",
+    "photo_teg_950": "AgACAgIAAxkBAAIEEWXaPWElveXCFgABG_mL2ZXNiEGFYwACpdgxG8Ig0EpQrLinw1WB_AEAAwIAA3kAAzQE",
+    "photo_teg_2000": "AgACAgIAAxkBAAIEE2XaPYa2w0-vlP1lHi4lbP1p0ZlTAAKn2DEbwiDQSkDshN__qpxmAQADAgADeQADNAQ",
+    "photo_teg_pass" : "AgACAgIAAxkBAAIEYGXc0Y8wH9vtBPzBH01P9SigigxeAAJx1zEbQrnoSs9y45wZxJFHAQADAgADeQADNAQ",
+    "photo_teg_pass_plus": "AgACAgIAAxkBAAIEYmXc0dmUbHtSdG_QHxw7Vcpav7cxAAJ01zEbQrnoSrIuCsmYzmNkAQADAgADeQADNAQ",
+    "start": "👋 Привет! Добро пожаловать в Brawl Store! Сейчас ты в главном меню.",
+    "unknown_cmd": "🤖 Извини, я не понимаю твой запрос. Выбери вариант на кнопках.",
+    "buy_step1": "\uD83D\uDC47Выбирай товар\uD83D\uDC47",
+    "buy_step2": "Хороший выбор! Давай определимся с методом оплаты.",
+    "inc_order": "Не понимаю тебя, нажми на одну из кнопок",
+    "ok_order": "Хорошо. Скоро с тобой свяжутся по поводу заказа, жди)",
+    "incorrect_order": "Возвращаю в главное меню",
+    "tech_support": "\uD83D\uDC47Контакты для связи\uD83D\uDC47"
+}
