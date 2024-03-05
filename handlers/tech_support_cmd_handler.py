@@ -1,8 +1,9 @@
-from aiogram.types import CallbackQuery
 from aiogram import Router, F
+from aiogram.types import CallbackQuery
+
 from keyboards.keyboard import InCallBack
-from utils.get_responses import get_responses
 from keyboards.keyboard import tech_support_contacts_inline, main_inline
+from utils.get_responses import get_responses
 
 tech_router = Router()
 

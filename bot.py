@@ -1,10 +1,12 @@
-import os
-from dotenv import load_dotenv, find_dotenv
-from aiogram import Bot, Dispatcher
 import asyncio
+import os
+
+from aiogram import Bot, Dispatcher
+from dotenv import load_dotenv, find_dotenv
+
+from handlers.buy_cmd_handler import buy_router
 from handlers.start_cmd_handler import start_router
 from handlers.tech_support_cmd_handler import tech_router
-from handlers.buy_cmd_handler import buy_router
 
 load_dotenv(find_dotenv())
 

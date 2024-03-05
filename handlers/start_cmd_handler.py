@@ -1,8 +1,9 @@
 from aiogram import Router
-from aiogram.types import Message
 from aiogram.filters import Command
-from utils.get_responses import get_responses
+from aiogram.types import Message
+
 from keyboards.keyboard import main_inline
+from utils.get_responses import get_responses
 
 start_router = Router()
 

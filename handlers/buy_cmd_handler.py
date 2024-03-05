@@ -1,10 +1,12 @@
-from aiogram.types import CallbackQuery, Message
-from utils.get_responses import get_responses
-from aiogram import Router, F
-from keyboards.keyboard import InCallBack, buy_inline, pay_method_inline, main_inline, order_info_inline
-from aiogram.fsm.context import FSMContext
-from utils.statesorder import OrderForm
 from typing import Dict, Any
+
+from aiogram import Router, F
+from aiogram.fsm.context import FSMContext
+from aiogram.types import CallbackQuery, Message
+
+from keyboards.keyboard import InCallBack, buy_inline, pay_method_inline, main_inline, order_info_inline
+from utils.get_responses import get_responses
+from utils.statesorder import OrderForm
 
 buy_router = Router()
 
